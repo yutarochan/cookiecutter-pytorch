@@ -5,7 +5,7 @@
 
     "package_name": "pack",
     "package_version": "0.1.0",
-    "package_description": "",
-    "model_name": "",
-    "dataloader_name": "",
+    "package_description": "Project Desc: ",
+    "model_name": "mnist",
+    "dataloader_name": "MNISTDataLoader",
 }
